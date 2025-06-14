@@ -1,8 +1,8 @@
 
 {
   "serverstatus": "true",
-  "noticemode": "true",
-  "dataclearmode": "true",
+  "noticemode": "false",
+  "dataclearmode": "false",
   "servermeassage": "Wallhack ke bugs fix & performance improved & stability.",
   "opentime": "Mod is now safe to use 🙂",
   "libs": "https://github.com/ayush202003/Ayush.site/raw/refs/heads/main/libAyushfix.so",
