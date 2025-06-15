@@ -1,6 +1,6 @@
 {
   "serverstatus": "true",
-  "noticemode": "true",
+  "noticemode": "false",
   "dataclearmode": "false",
   "servermeassage": "Under Maintenance",
   "opentime": "Tomorrow 11AM",
