@@ -4,7 +4,7 @@
   "dataclearmode": "true",
   "servermeassage": "Under Maintenance",
   "opentime": "Tomorrow 11AM",
-  "libs": "https://github.com/ayush202003/Ayush.site/blob/main/libAYUSHNEW.so",
+  "libs": "https://github.com/ayush202003/Ayush.site/raw/refs/heads/main/libAYUSHNEW.so",
   "notice_title": "New Update Server",
   "notice_body": "New Lastest version available",
   "floatingtext": "Telegram >@GX_KINGXX Server"
