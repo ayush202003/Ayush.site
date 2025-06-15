@@ -1,11 +1,11 @@
 {
-  "serverstatus": "true",
+  "serverstatus": "false",
   "noticemode": "false",
   "dataclearmode": "false",
   "servermeassage": "Under Maintenance",
   "opentime": "Tomorrow 11AM",
   "libs": "https://github.com/ayush202003/Ayush.site/raw/refs/heads/main/libAYUSHNEW.so",
   "notice_title": "New Update Server",
-  "notice_body": "New Lastest version available",
+  "notice_body": "New Lastest V2.0 version  available",
   "floatingtext": "Telegram >@GX_KINGXX Server"
 }
