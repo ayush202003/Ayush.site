@@ -1,11 +1,11 @@
 {
   "serverstatus": "true",
   "noticemode": "false",
-  "dataclearmode": "false",
+  "dataclearmode": "true",
   "servermeassage": "Under Maintenance",
   "opentime": "Tomorrow 11AM",
   "libs": "https://github.com/ayush202003/Ayush.site/raw/refs/heads/main/libAYUSHNEW.so",
   "notice_title": "New Update Server",
   "notice_body": "New Lastest V2.0 version  available",
-  "floatingtext": "   🔥 GX_KINGXX PRIVATE - Server 2.0 🔥"
+  "floatingtext": "   🔥 PRIVATE - Server 2.0 🔥"
 }
