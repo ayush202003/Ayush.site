@@ -1,11 +1,11 @@
 {
   "serverstatus": "true",
-  "noticemode": "true",
+  "noticemode": "false",
   "dataclearmode": "false",
   "servermeassage": "Under Maintenance",
   "opentime": "Tomorrow 11AM",
   "libs": "https://github.com/ayush202003/Ayush.site/raw/refs/heads/main/libAyushFix3.so",
   "notice_title": "Update Server Safe",
   "notice_body": "New Lastest V3.0 version  available",
-  "floatingtext": "   🔥 GXKINGXX PVT- Server 2.0 🔥"
+  "floatingtext": "   🔥 GXKING PVT- Server 2.0 🔥"
 }
