@@ -1,11 +1,11 @@
 {
   "serverstatus": "true",
-  "noticemode": "true",
+  "noticemode": "false",
   "dataclearmode": "false",
   "servermeassage": "Under Maintenance",
   "opentime": "Tomorrow 11AM",
   "libs": "https://github.com/ayush202003/Ayush.site/raw/refs/heads/main/libAyushFix2.so",
-  "notice_title": "Update Server Safe",
-  "notice_body": "New Lastest V4 version Fixed",
-  "floatingtext": "   🔥 GXKING - New Server 4.0 🔥"
+  "notice_title": "Update Notice",
+  "notice_body": "New version available",
+  "floatingtext": "☠ GXKING - WH SAFE PRIVATE ☠️"
 }
